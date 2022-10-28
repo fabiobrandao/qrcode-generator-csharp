@@ -1,4 +1,4 @@
-# Async-Await CSharp
+# QRCode Generator CSharp
 Simples exemplo geração de QRCode em C#.
 
 # Objetivo
