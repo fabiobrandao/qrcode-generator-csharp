@@ -1,7 +1,9 @@
 # QRCode Generator CSharp
+
 Simples exemplo geração de QRCode em C#.
 
 # Objetivo
+
 Este projeto apresenta de forma simples como gerar QRCode em C#.
 
 ## Feedback
